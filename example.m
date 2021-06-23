@@ -1,5 +1,6 @@
 % Example usage of LADMC and iLADMC code
-% Greg Ongie, 5/9/2018, gongie@umich.edu
+% Greg Ongie, June 23, 2021
+% gregory.ongie@marquette.edu 
 %% generate unions of subspaces data
 rng(1);  %fix random seed for reproducibility
 n = 15;  %ambient dim
